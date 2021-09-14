@@ -38,8 +38,8 @@ SentiMo captures the public sentiment about controversial/popular topics in a mo
 
 ## What's next for SentiMo
 
-- Releas SentiMo online virtual gallery for all audiences!
-- Optomis deep learning network of SentiMo algorithm
+- Release SentiMo online virtual gallery for all audiences!
+- Optimize the deep learning network of SentiMo algorithm
 - Produse more meaningful images on different illness
 - Generate a complete symphony with different DNA sequence
 - Keep improving and learning more
